@@ -1,0 +1,6 @@
+---
+published: true
+title: first!
+layout: post
+---
+just a test
